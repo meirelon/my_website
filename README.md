@@ -1,2 +1,1 @@
-# my_website
- This is my personal website.
+Hello! This is a temporary readme. Please check back soon for updates!
